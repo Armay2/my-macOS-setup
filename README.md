@@ -73,17 +73,11 @@ This guide provides a complete setup for a new macOS environment specifically ta
    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
    ```
 
-3. **Install Git:**
-
-   ```bash
-   brew install git
-   ```
-
-4. **Set Up SSH Keys:**
+3. **Set Up SSH Keys:**
 
    Follow [GitHub's guide](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) to generate a new SSH key and add it to the ssh-agent.
 
-5. **Install GitKraken, Xcode, Proxyman, DevUtils, Buildwatch, Xcodes** (see links above).
+4. **Install GitKraken, Xcode, Proxyman, DevUtils, Buildwatch, Xcodes** (see links above).
 
 ## Terminal Environment Setup
 
