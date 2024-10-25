@@ -41,7 +41,7 @@ This guide provides a complete setup for a new macOS environment specifically ta
 | Icon | Name           | Description                                               | Link                                        | Brew Installable |
 |------|----------------|-----------------------------------------------------------|---------------------------------------------|------------------|
 | 🍺   | **Homebrew**   | Package manager that simplifies installing software.     | [Homebrew](https://brew.sh/)                | Yes              |
-| 🖌️   | **Oh My Zsh**: Framework for managing Zsh configuration and themes.
+| 🖌️   | **Oh My Zsh**  |Framework for managing Zsh configuration and themes.| [OhMyZsh](https://ohmyz.sh)|No |
 | 🤖   | **Powerlevel10k** | A prompt theme for Zsh with many customization options. | [Powerlevel10k](https://github.com/romkatv/powerlevel10k) | Yes (`brew install powerlevel10k`) |
 
 ## System
